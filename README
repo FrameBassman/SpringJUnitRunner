@@ -1,2 +1,2 @@
-Guice-JUnit is a demonstration project that shows how to take advantage of Guice in JUnit tests.
-
+Spring-JUnit is a demonstration project that shows how to take advantage of Spring in JUnit tests.
+Inspired by https://github.com/sfragis/GuiceJUnitRunner
