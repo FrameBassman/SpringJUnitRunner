@@ -12,6 +12,8 @@ repositories {
 
 dependencies {
     compile 'com.google.inject:guice:3.0'
+    compile 'org.springframework:spring-core:5.2.7.RELEASE'
+    compile 'org.springframework:spring-context:5.2.7.RELEASE'
     testCompile 'junit:junit:4.8.2'
 }
 
